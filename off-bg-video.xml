@@ -1,0 +1,15 @@
+<theme>
+   <formatVersion>7</formatVersion>
+
+<view name="system">
+
+     <video name="backgroundvideo" extra="true">
+        <path>{random}</path>          
+        <visible>true</visible>	 	 
+        <rotation>0</rotation>  
+        <roundCorners>0.00</roundCorners>             
+        <color>FFFFFF</color>                    
+     </video>
+
+</view>
+</theme>

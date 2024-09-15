@@ -1,0 +1,13 @@
+<theme>
+   <formatVersion>7</formatVersion>
+
+<view name="system">
+        <video name="backgroundvideo" extra="static">
+        <path>./_inc/videos/${system.theme}.mp4</path>
+        <visible>true</visible>
+        <rotation>0</rotation>
+        <roundCorners>0.00</roundCorners>
+        <color>FFFFFF</color>
+        </video>
+</view>
+</theme>
